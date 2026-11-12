@@ -1,10 +1,10 @@
 {
   "manifestVersion": 1,
-  "engineVersion": "0.1.1",
+  "engineVersion": "0.1.2",
   "protocol": 1,
   "platform": "win32",
   "arch": "x64",
   "file": "memelens-sidecar.exe",
-  "size": 7215104,
-  "sha256": "e47beacc40daec4a397f942f74cca24a9980c70df7a1896b1fe7f1e3f2951315"
+  "size": 7216128,
+  "sha256": "358771acd0096ada13f3b3ed717417ab89e8b9b20f86474d3194bc55fa2279b9"
 }
