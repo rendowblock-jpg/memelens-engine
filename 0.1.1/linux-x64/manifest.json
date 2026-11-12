@@ -1,0 +1,10 @@
+{
+  "manifestVersion": 1,
+  "engineVersion": "0.1.1",
+  "protocol": 1,
+  "platform": "linux",
+  "arch": "x64",
+  "file": "memelens-sidecar",
+  "size": 7221410,
+  "sha256": "ac9125bc846b5cd8e9c9db873a00269fb457e19ededb227d06528b026abce33c"
+}
